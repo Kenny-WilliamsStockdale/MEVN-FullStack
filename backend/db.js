@@ -1,4 +1,4 @@
-// connect to database via .env file 
+// connect to database via .env file
 // if success connection print success message
 // if unsuccessful connection print fail message
 require("dotenv").config();

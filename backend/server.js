@@ -35,5 +35,5 @@ app.get('/', (req, res) => {
     res.send("API is running/Success-MEVN-Full-Stack");
 })
 // Use port 5001 and display backend information
-app.listen(5001, console.log("Server started on PORT 5003"));
+app.listen(5003, console.log("Server started on PORT 5003"));
 
