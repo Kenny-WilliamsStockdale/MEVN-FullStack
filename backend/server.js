@@ -32,8 +32,8 @@ connectDB();
 
 // request and send to check the backend is running
 app.get('/', (req, res) => {
-    res.send("API is running");
+    res.send("API is running/Success-MEVN-Full-Stack");
 })
 // Use port 5001 and display backend information
-app.listen(5001, console.log("Server started on PORT 5001"));
+app.listen(5001, console.log("Server started on PORT 5003"));
 
