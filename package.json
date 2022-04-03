@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "concurrently": "^7.1.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "latest": "^0.2.0",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  },
+  "name": "mevn-fullstack",
+  "description": "mongoDB Express.js Vue Node.js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenny-WilliamsStockdale/MEVN-FullStack.git"
+  },
+  "author": "Kenny Stockdale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenny-WilliamsStockdale/MEVN-FullStack/issues"
+  },
+  "homepage": "https://github.com/Kenny-WilliamsStockdale/MEVN-FullStack#readme"
+}
